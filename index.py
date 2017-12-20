@@ -15,7 +15,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1>Hi there!</h1>
-				<p>I'm best known as tonybeeth from <em> . . . </em> Don't trust me. <a href="/about"> Read more about me...</a></p>
+				<p>I'm best known as tonybeeth from <em> Some random time </em> Don't trust me. <a href="/about"> Read more about me...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
